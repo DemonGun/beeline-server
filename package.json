@@ -23,7 +23,7 @@
   "dependencies": {
     "@mapbox/togeojson": "^0.16.0",
     "@opengovsg/ura-subzones": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.6.0",
     "babel-polyfill": "^6.5.0",
