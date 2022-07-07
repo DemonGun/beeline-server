@@ -48,7 +48,7 @@
     "left-pad": "^1.0.1",
     "lodash": "^4.17.11",
     "mimos": "^3.0.3",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "ngeohash": "^0.6.0",
     "node-ical": "^0.7.0",
     "node-telegram-bot-api": "^0.30.0",
